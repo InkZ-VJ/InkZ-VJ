@@ -1,6 +1,6 @@
 - 👋 Hi, I’m `Inchree` (Vatcharapong Jittiprasert)
 - 👀 I’m interested in `Blockchain development` & `Golang Backend development`
-- 🌱 I’m currently learning `Templ` & `HTMX`
+- 🌱 I’m currently learning `microservice`
 
 <!---
 InkZ-VJ/InkZ-VJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

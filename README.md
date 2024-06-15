@@ -1,5 +1,5 @@
 - 👋 Hi, I’m `Inchree` (Vatcharapong Jittiprasert)
-- 👀 I’m interested in `Blockchain development` & `Golang Backend development`
+- 👀 I’m interested in `Golang Backend development` & `Blockchain development`
 - 🌱 I’m currently learning `microservice`
 
 <!---
